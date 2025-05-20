@@ -1,6 +1,7 @@
 ### **Medium Assignment**
 Here our Goal is to find whether the Docker File can be run on Docker Container on which Jenkins Application is already running,
 So first we have to create a Docker file which will have the docker image and all the other necessary aspects which should be contained in a docker file
+
 <img src="images/picture-6.png" alt="My Image" width="800">
 
 now we have to create a Pipeline which will run this docker file after creating its image as we can see in the image we are creating a new Image named Assignment
