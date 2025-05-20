@@ -5,6 +5,7 @@ So first we have to create a Docker file which will have the docker image and al
 <img src="images/picture-6.png" alt="My Image" width="800">
 
 now we have to create a Pipeline which will run this docker file after creating its image as we can see in the image we are creating a new Image named Assignment
+
 <img src="images/picture-1.png" alt="My Image" width="800">
 
  As we can see in the image we are writing a groovy code as stage 1 and stage 2 where we have docker commands for image creation and image run as follows:
